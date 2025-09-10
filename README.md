@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mznlnc
 - 👀 I’m interested in web design and development
-- 🌱 I’m currently learning cybersecurity
+- 🌱 Aspiring Cybersecurity Eng/ Penetration tester
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me emekamartins@gmail.com
 - 😄 Pronouns: he
