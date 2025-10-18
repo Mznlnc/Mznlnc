@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mznlnc
+- 👋 Hi, I’m @EmekaNjoagwuani
 - 👀 I’m interested in web design and development
 - 🌱 Aspiring Cybersecurity Eng/ Penetration tester
 - 💞️ I’m looking to collaborate on web development
